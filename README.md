@@ -4,7 +4,7 @@ A Progressive Web App for learning classic card game rules. Filter games by numb
 
 ## Features
 
-- ✅ **16 Classic Card Games** with detailed, verified rules
+- ✅ **24 Classic Card Games** with detailed, verified rules
 - 🔍 **Smart Filtering** by number of players and complexity level
 - 📱 **Mobile-First Design** optimized for phones and tablets
 - 🌐 **Works Offline** as a Progressive Web App (PWA)
@@ -13,21 +13,34 @@ A Progressive Web App for learning classic card game rules. Filter games by numb
 
 ## Card Games Included
 
+### Easy Games
 - Go Fish
 - Crazy Eights
+- War
+- Old Maid
+- UNO
+- Snap
+- Spit
+- Speed
+- Scum (President)
+
+### Medium Games
 - Hearts
-- Poker (Texas Hold'em)
 - Rummy
 - Blackjack
-- War
+- Euchre
+- Cribbage
+- Kemps
+- Gin Rummy
+
+### Hard Games
+- Poker (Texas Hold'em)
 - Spades
 - Solitaire (Klondike)
-- Old Maid
-- Euchre
-- UNO
 - Bridge (Contract Bridge)
-- Snap
-- Cribbage
+- 500 (Five Hundred)
+- Canasta
+- Pinochle
 
 ## Tech Stack
 
