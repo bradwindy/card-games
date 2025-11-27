@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#2563eb" rx="128"/>
+  <g transform="translate(256, 256)">
+    <!-- Playing card design -->
+    <rect x="-140" y="-180" width="280" height="360" fill="white" rx="20"/>
+    <text x="0" y="80" font-size="180" text-anchor="middle" fill="#ef4444">♠</text>
+    <text x="-100" y="-120" font-size="80" text-anchor="middle" fill="#1f2937">A</text>
+    <text x="100" y="200" font-size="80" text-anchor="middle" fill="#1f2937" transform="rotate(180 100 200)">A</text>
+  </g>
+</svg>
